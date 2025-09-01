@@ -1,4 +1,3 @@
-# StudentsSocialMediaAddiction
 # 📱 Students Social Media Addiction Analysis
 
 ## 🧠 Project Overview
