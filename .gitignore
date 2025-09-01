@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Machine learning model files
-*.joblib
+
 *.pkl
 
 # Distribution / packaging
