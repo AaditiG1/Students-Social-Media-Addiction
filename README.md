@@ -230,6 +230,5 @@ This project provides a comprehensive analysis and prediction framework for **st
 
 I’m always happy to collaborate, share knowledge, or discuss ideas! You can reach out through the following channels:
 
-- **GitHub:** https://github.com/AaditiG1
 - **LinkedIn:** [https://www.linkedin.com/in/aaditi-ghimire](https://www.linkedin.com/in/aaditi-ghimire-5697342bb/)
 - **Email:** aaditighimire21@gmail.com
