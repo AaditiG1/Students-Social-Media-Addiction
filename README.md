@@ -26,25 +26,28 @@ This project aims to analyze the patterns of social media usage among students, 
 ```
 Students-Social-Media-Addiction/
 │
-├── notebooks/                # Jupyter Notebooks for EDA, preprocessing, modeling
-│   ├── BestFitModel.ipynb    # Gradient Boosting Regressor tuning
-│   ├── EDA.ipynb             # Exploratory Data Analysis
-│   ├── FeatureSelection.ipynb# Feature importance using Random Forest
-│   ├── GradientBoostingRegressor.ipynb
-│   ├── Inference_best_model.ipynb # Inference using best model
-│   ├── LogisticRegression.ipynb
-│   ├── LinearRegression.ipynb
-│   ├── ModelTrainingWithoutFeatureSelection.ipynb
+├── .venv/                    # Python virtual environment
+├── __pycache__/              # Python cache files
+├── CLL_Inference/            # CLI inference module
+│   └── inference.py          # Command-line inference script
+├── model/                    # Model storage directory
+│   └── [model_files].joblib  # Trained model files (Joblib format)
+├── notebooks/                # Jupyter Notebooks
+│   ├── EDA.ipynb
 │   ├── PreProcessing.ipynb
+│   ├── ModelTrainingWithoutFeatureSelection.ipynb
+│   ├── FeatureSelection(RandomForestRegressor).ipynb
+│   ├── GradientBoostingRegressor.ipynb
 │   ├── XGBoost.ipynb
-│
-├── sources/                  # Source code for deployment & inference
-│   ├── app.py                # FastAPI app for model inference
-│   └── inference.py          # Script for running predictions
-│
-├── requirements.txt          # Python dependencies
-├── README.md                 # Project documentation
-└── .gitignore
+│   ├── LinearRegression.ipynb
+│   ├── LogisticRegression.ipynb
+│   ├── BestFitModel(GradientBoostingRegressor).ipynb
+│   └── Inference_best_model.ipynb
+├── source/                   # Source code directory
+│   └── app.py               # FastAPI application
+├── .gitignore               # Git ignore rules
+├── README                   # Project documentation
+└── requirements.txt         # Project dependencies
 
 ```
 
