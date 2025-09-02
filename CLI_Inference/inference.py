@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pandas as pd
 import joblib
 import os
@@ -112,4 +111,4 @@ if user_input_data:
     print("\n--- Prediction Results ---")
     print(f"Predicted Score: {predicted_score[0]:.2f}")
     print(f"Addiction Level: {level}")
->>>>>>> 8e5eeff56e8c0af4ed15d38dff2744b2fd5c74c7
+
