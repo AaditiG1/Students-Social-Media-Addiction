@@ -6,11 +6,9 @@ In the modern digital era, social media has become an integral part of students'
 
 This project aims to analyze the patterns of social media usage among students, predict the level of addiction, and evaluate which machine learning models perform best for this task.
 
-<<<<<<< HEAD
-=======
-📂 Dataset: The dataset used in this project can be downloaded from Kaggle: Social Media Addiction vs relationship
->>>>>>> 7dd316a (Finalized model setup)
----
+
+📂 Dataset: The dataset used in this project can be downloaded from Kaggle: [Social Media Addiction vs Relationships](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)
+ 
 
 ## 🎯 Objectives
 
